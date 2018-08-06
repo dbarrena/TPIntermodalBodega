@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">TP Intermodal Bodega</string>
+    <string name="app_title">TP Intermodal Bodega</string>
+
+    <!-- Login -->
+    <string name="ContrasenaLoginFieldPlaceholder">Contraseña</string>
+    <string name="UsuarioLoginFieldPlaceholder">Usuario</string>
+    <string name="LoginButtonText">Ingresar</string>
+    <string name="open_drawer">drawer opened</string>
+    <string name="close_drawer">drawer_closed</string>
+    <string name="drawer_item_entrada">Entrada</string>
+    <string name="drawer_item_salida">Salida</string>
+
+    <!-- Scanner Items -->
+    <string name="pending_items_button_placeholder">Pallets pendientes: 0</string>
+    <string name="completed_items_placeholder">Pallets registrados: 0</string>
+
+    <!-- Entrada/Salida recyclerview items-->
+    <string name="list_item_placas_title">Placas:</string>
+    <string name="list_item_cliente_title">Cliente:</string>
+    <string name="list_item_scanner_producto_title">Producto:</string>
+    <string name="positive">Aceptar</string>
+    <string name="negative">Cancelar</string>
+    <string name="id_evento_title">ID Evento:</string>
+
+    <!-- Detalle evento dialog -->
+    <string name="scanner_dialog_inbound_title">Estatus:</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="event_detail_list_item_estatus">Estatus:</string>
+    <string name="id_detalle_evento_list_item_tag">ID Detalle Evento:</string>
+</resources>
